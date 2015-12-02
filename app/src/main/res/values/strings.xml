@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Wednesday</string>
+
+    <string-array name="colors">
+        <item>#7B1FA2</item>
+        <item>#C2185B</item>
+        <item>#1565C0</item>
+        <item>#CDDC39</item>
+    </string-array>
+    <string-array name="madlibHints">
+        <item>Adjective</item>
+        <item>Noun</item>
+        <item>Verb</item>
+        <item>Person in room</item>
+    </string-array>
+</resources>
